@@ -1,4 +1,4 @@
-# PaperPlate-Defect-Detection
+# PaperPlateQC (QC = Quality Control)
 
 ## Overview  
 This project focuses on developing an AI-based system for detecting and classifying defective paper plates. The model is trained to identify non-standard plates based on shape, texture, size, and other quality indicators.
@@ -24,4 +24,4 @@ This project focuses on developing an AI-based system for detecting and classify
 ## Getting Started  
 1. Clone the repository:  
    ```bash
-   git clone https://github.com/yourusername/PaperPlateQC-2025.git
+   git clone https://github.com/Peckkie/PaperPlateQC-2025.git
